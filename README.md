@@ -1,9 +1,11 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&section=header&text=welecom%20minseok%20github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&section=header&text=Welecom%20minseok's%20Github&fontSize=60)
   <br/><br/><br/>
-안녕하세요 신입 개발자 장민석입니다.<br/>
+안녕하세요 신입 개발자 장민석입니다.😀
+  <br/>
+  <br/>
   🛠platforms & Languages📚
   <br/>
 <hr/>
