@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Rect&text=장민석github입니다!)
+
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&section=header&text=welecom%20minseok%20github&fontSize=60)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=97minseok&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97minseok)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97minseok&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+</div>
