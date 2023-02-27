@@ -1,8 +1,10 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&section=header&text=welecom%20minseok%20github&fontSize=60)<br/>
-  🛠platforms & Languages📚<br/><br/>
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&section=header&text=welecom%20minseok%20github&fontSize=60)
+  <br/>
+  🛠platforms & Languages📚
+  <br/>
 <hr/>
   🖌Fornt-End<br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -43,14 +45,11 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
   <hr/>
-    <br/>
-    <br/>
-    <br/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=97minseok&show_icons=true&theme=dracula)
   <br/>
-  <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97minseok&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=97minseok&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&bg_color=black" />
 </div>
+
 
 
 
