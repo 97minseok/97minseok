@@ -1,19 +1,9 @@
-<!--
-**97minseok/97minseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&section=header&text=welecom%20minseok%20github&fontSize=60)<br/>
   🛠platforms & Languages📚<br/><br/>
+<hr/>
   🖌Fornt-End<br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -52,11 +42,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+  <hr/>
     <br/>
     <br/>
     <br/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=97minseok&show_icons=true&theme=dracula)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97minseok&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-</div><br/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=97minseok&show_icons=true&theme=dracula)
+  <br/>
+  <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97minseok&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 
 
